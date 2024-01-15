@@ -5,6 +5,8 @@
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
 Local Port: 3000
+command: npm i
+run: nodemon
  
 ## 3 apis created:
 1. uploadFile: /api/file/upload
