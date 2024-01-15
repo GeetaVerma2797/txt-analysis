@@ -1,0 +1,14 @@
+{
+    "name": "GyFTR",
+    "DATABASE": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "txt_analysis",
+        "debug": false,
+        "multipleStatements": true,
+        "connectTimeout": 10000,
+        "acquireTimeout": 10000
+    }
+}
